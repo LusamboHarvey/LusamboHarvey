@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @LusamboHarvey
+- 👀 I’m interested in Web and Software development
+- 🌱 I’m currently learning JavaScript and Relational Database
+- 💞️ I’m looking to collaborate on open-source web projects, especially those using HTML, CSS, JavaScript, or React
+- 📫 How to reach me lusamboharvey455@gmail.com 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact:  I started coding by customizing my company's website — and got hooked ever since!
